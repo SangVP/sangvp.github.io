@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="imagine">
+    <file>send.png</file>
+    <file>kaomoji.png</file>
+    <file>phone.png</file>
+    <file>photo.png</file>
+    <file>sent.png</file>
+  </qresource>
+</RCC>

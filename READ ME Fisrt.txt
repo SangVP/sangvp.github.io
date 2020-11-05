@@ -1,0 +1,12 @@
+1/ Để sử dụng QT designer:
+import pyqt5
+
+2/ Để sử dụng tensorflow trong take_data phải dùng python 3.6.8
+
+3/ Để chạy file data_chatbot cần thay đổi link folder
+
+4/ Ngoài ra, còn một số thư viện sẽ phát sinh trong khi chạy, hệ thống sẽ nhắc nhở bạn impor
+
+5/ Unzip RC_2015-01.bz2 để chạy data_chatbot
+6/ Unzip json_file để open .json file
+
